@@ -1,4 +1,4 @@
-const colors = ['green', 'red', 'blue', 'greenyellow', 'tomato','gold','aqua','silver'];
+const colors = ['green', 'red', 'blue', 'greenyellow', 'tomato','gold','aqua','silver','violet','indigo','lightblue', 'pink'];
 // function change(){
 //     let btn = document.getElementById('click');
 //     let bg = document.getElementById('background');
